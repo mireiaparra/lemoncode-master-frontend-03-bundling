@@ -1,0 +1,13 @@
+$color: white;
+$background-color: rgb(161, 161, 247);
+$font: 'Courier New', Courier, monospace;
+
+.title{
+color: $color;
+background-color: $background-color;
+padding: 10px;
+text-align: center;
+border-radius: 10px;
+font-family: $font;
+font-weight: 600;
+}
